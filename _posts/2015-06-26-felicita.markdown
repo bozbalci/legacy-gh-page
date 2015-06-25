@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Felicità"
+date:   2015-06-26 02:00:00
+categories: meta
+---
+
+Precisely a year and two days ago, I posted a hastily-written note of absence on my old web page Bugs of Berk (which is gone). I had to study very hard for the college admission exams. Exams are yesterday and now I am liberated.
+
+This is my new web page on the Internet, and will soon be populated by the posts I write. There is a lot of work to do, but I have an entire summer ahead of me.
+
+I am thinking of writing a viewing guide for the television series Chuck (inspired by [this][rothwell-who] viewing guide for Doctor Who by Jonathan Rothwell) in my leisure.
+
+I am also thinking of putting my study notes for Jim Hefferon's [Linear Algebra][hefferon-la] on this web page, both as a future reference for myself and also for potential study friends who are also interested in developing both intuition and rigour for linear algebra.
+
+Another plan that I have is weekly album reviews, written in a casual manner for enthusiasts like myself. Exploring musical genres is one of my favourite hobbies, so why not?
+
+Hopefully when I check back on this post, which pretty much serves as a to-do list for myself and an announcement for my friends, I will realise that I haven't spent a lazy summer!
+
+[rothwell-who]: http://www.rothwell.im/etc/doctor-who/
+[hefferon-la]: http://joshua.smcvt.edu/linearalgebra/
