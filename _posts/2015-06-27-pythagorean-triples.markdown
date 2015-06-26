@@ -129,7 +129,7 @@ c = (x + \sqrt{-n}y)(x - \sqrt{-n}y)
 
 $$
 
-with $$a + \sqrt{-n}b = (x + \sqrt{n}y)^2$$ and so $$a = x^2 - ny^2$$ and $$b=2xy$$. Let's call this an **n-Pythagorean triple**. An example would be with $$x=2$$, $$y=1$$ and $$n=3$$:
+with $$a + \sqrt{-n}b = (x + \sqrt{-n}y)^2$$ and so $$a = x^2 - ny^2$$ and $$b=2xy$$. Let's call this an **n-Pythagorean triple**. An example would be with $$x=2$$, $$y=1$$ and $$n=3$$:
 
 $$
 
