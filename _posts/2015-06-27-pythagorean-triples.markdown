@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pythagorean triples and square roots of complex numbers"
-date:   2015-06-27 22:00:00
+date:   2015-06-27 00:00:00
 categories: math
 ---
 
