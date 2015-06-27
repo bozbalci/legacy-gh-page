@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Felicità"
-date:   2015-06-26 02:00:00
+date:   2015-06-26 00:00:00
 categories: meta
 ---
 
