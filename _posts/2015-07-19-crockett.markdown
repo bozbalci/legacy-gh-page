@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Music From Scratch: Crockett's Theme"
+date:   2015-07-19 00:00:00
+categories: music
+---
+
+I was in holiday for a few days, without Internet, so I spent my free time working on a full reproduction of Crockett's Theme by Jan Hammer on my iPad Air, in GarageBand. I think it turned out pretty good, let me know what you think!
+
+[Link to the SoundCloud page][sc-crockett]
+
+[sc-crockett]: https://soundcloud.com/bozbalci/crockett
