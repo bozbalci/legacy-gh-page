@@ -1,7 +1,7 @@
 ---
 layout: page
 title: L'oiseau
-permalink: /oiseau
+permalink: /oiseau/
 ---
 
 A [Last.fm][lastfm] scrobbler for [Music Player Daemon][mpd], written in Python.
