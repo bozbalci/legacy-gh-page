@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+showonmenu: true
 ---
 
-I'm Berk Özbalcı, a 17-year-old {math,programming,music} enthusiast living in İzmir, Turkey. I am a graduate of the Bornova Anatolian High School.
+I'm Berk Özbalcı, a 18-year-old {math,programming,music} enthusiast living in İzmir, Turkey. Currently studying Computer Engineering at Middle East Technical University An alumnus of Bornova Anatolian High School.
 
 I have a fairly well understanding of mathematical concepts and I like to share them with my friends. I like reading undergraduate level mathematical textbooks, and I am currently reading a book on group theory.
 
