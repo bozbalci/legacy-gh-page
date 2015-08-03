@@ -18,7 +18,7 @@ I watch a lot of TV shows. I am a big fan of Chuck, and I am ready to donate for
 About my setup
 --------------
 
-I am running a fairly old desktop computers with specifications not worth mentioning, and from time to time a Mac Mini 2005 (one of the PowerPC models!) with Debian installed. My main machine runs Debian 8.1, and I use bspwm & sxhkd on X.org for window management. I play my music through mpd & ncmpcpp, and I am a proud user of the rxvt-unicode. I prefer zsh over bash. My text editor of choice is Vim, I've tried using Emacs but found it too detailed for a text editor.
+I am running a fairly old desktop computer with specifications not worth mentioning, and from time to time a Mac Mini 2005 (one of the PowerPC models!) with Debian installed. My main machine runs Debian 8.1, and I use bspwm & sxhkd on X.org for window management. I play my music through mpd & ncmpcpp, and I am a proud user of the rxvt-unicode. I prefer zsh over bash. My text editor of choice is Vim, I've tried using Emacs but found it too detailed for a text editor.
 
 Also there are software which dump euphoria to /dev/brain, that I enjoy using casually:
 
