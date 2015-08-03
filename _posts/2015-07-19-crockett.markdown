@@ -9,8 +9,9 @@ I was in holiday for a few days, without Internet, so I spent my free time worki
 
 [Link to the SoundCloud page][sc-crockett]
 
-(2015-08-03) Update: The track is now available on YouTube.
+(2015-08-03) Update: The track is now available on [YouTube][youtube].
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zREXa8R8Sbw" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zREXa8R8Sbw" frameborder="0" allowfullscreen></iframe></center>
 
 [sc-crockett]: https://soundcloud.com/bozbalci/crockett
+[youtube]: https://www.youtube.com/watch?v=zREXa8R8Sbw
