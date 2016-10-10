@@ -1,9 +1,9 @@
 # Site settings
-title: /dev/berk
+title: negativland
 email: berkozbalci@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-   sound & mathematics
-permalink: /blog/:title
+   computer science. mathematics. avant-garde.
+permalink: /:title
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: bozbalci
