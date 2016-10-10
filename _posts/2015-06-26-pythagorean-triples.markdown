@@ -7,11 +7,7 @@ categories: math
 
 Two years ago in math class we were given this problem as exercise:
 
-$$
-
-\text{Find the square roots of the number } 5 + 12i.
-
-$$
+Find the square roots of the number $$5 + 12i.$$
 
 We are asked to find numbers $$x + yi$$ which satisfy the following equation:
 
