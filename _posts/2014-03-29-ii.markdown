@@ -16,7 +16,7 @@ ii is a very original IRC client. From their website:
 
 In this post, we are going to explore ii. In the end, our IRC setup will look like this:
 
-[![ii screenshot][iiscrot]][iiscrot]
+![screenshot for hiii](http://pub.iotek.org/p/xDigZYD.png)
 
 So let's begin!
 
@@ -45,7 +45,7 @@ echo "hi guys, how are you?" > in
 # ...
 {% endhighlight %}
 
-Simple, da? You can actually stop here and use ii like this. In the next section, we will use some other scripts with ii to make it easier to use.
+Simple! You can actually stop here and use ii like this. In the next section, we will use some other scripts with ii to make it easier to use.
 
 *NOTE:* To start a query with another user, you would normally `/j user`, but it doesn't work. You must `/j user <initial message>`. There is, however, [a patch][joinuser] for that, too.
 
@@ -85,8 +85,6 @@ I used to do that, but I've found it less practical than `cat > in`. However, wh
 
 Most guides on the internet use multitail, but I just couldn't do with multitail - when I'd remove the timestamps, my color filters wouldn't work, for example.
 
-Now we have seen the true power of ii. We may proceed to the next section.
-
 ## Using ii like an astronaut
 
 The flexibility of ii gives us,
@@ -97,7 +95,7 @@ The flexibility of ii gives us,
 * a possibility of running it on a server and use it as some sort of a bouncer
 * and many more other possibilities.
 
-I think ii is really a great IRC client, and a great example of the Unix philosophy. Would recommend.
+I think ii is really a great IRC client, and a great example of the Unix philosophy. Recommended!
 
 [ii]: http://tools.suckless.org/ii/
 [sic]: http://tools.suckless.org/sic/
