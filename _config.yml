@@ -1,8 +1,8 @@
 # Site settings
-title: negativland
+title: the sheltering sky
 email: berkozbalci@gmail.com
 description: >
-   computer science. mathematics.
+   継続は力なり
 permalink: /:title
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
