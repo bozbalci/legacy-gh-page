@@ -1,4 +1,5 @@
 # Site settings
+remote_theme: swanson/lagom
 title: the sheltering sky
 email: berkozbalci@gmail.com
 description: >
