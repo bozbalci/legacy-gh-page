@@ -31,3 +31,11 @@ img {
 h2 {
     color: gold;
 }
+
+.site-header {
+    text-align: center;
+}
+
+.site-footer {
+    text-align: center;
+}
