@@ -1,0 +1,22 @@
+body {
+    background: "images/darkness.png";
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 24px;
+}
+
+a:link {
+    color: mediumslateblue;
+}
+
+a:visited {
+    color: silver;
+}
+
+a:hover {
+    color: coral;
+}
+
+a:active {
+    color: blue;
+}
