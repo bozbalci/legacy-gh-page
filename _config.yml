@@ -4,6 +4,7 @@ description: >
 email: berkozbalci@gmail.com
 
 baseurl: ""
+permalink: /:title
 
 twitter_username: bozbalci
 github_username: bozbalci
