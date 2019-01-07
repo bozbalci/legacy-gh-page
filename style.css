@@ -1,5 +1,6 @@
 body {
     background-image: url("images/darkness.png");
+    background-color: black;
     margin: 0 auto;
     max-width: 900px;
     padding: 24px;
