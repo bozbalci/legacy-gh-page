@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="post">
+    <header class="post-header">
+        <h2 class="post-title">{{ page.title }}</h2>
+        <p class="post-meta">{{ page.date | date: "%Y-%m-%d" }}</p>
+    </header>
+
+    <article class="post-content">
+        {{ content }}
+    </article>
+
+    <footer class="post-footer">
+        <a href="{{ site.baseurl }}/">back to {{ site.title }}</a>
+    </footer>
+</div>

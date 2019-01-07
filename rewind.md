@@ -35,9 +35,6 @@ In this page, I maintain a list of (mostly technology related) terms like “rew
 * _uppercase and lowercase_ (in typography): Uppercase letters are ABC, lowercase letters are abc. In printing press, each glyph was a die that was placed in a frame, then inked and pressed on a paper. Those dies are stored in drawers or cases. The capital letters were in the top drawers (upper case) and lowercase letters were in the bottom drawers.
 * _we’re rolling_ (idiom, cinema): Used when recording footage. Refers to the film rolling in the camera.
 
-[back to the sheltering sky][4]
-
 [1]: https://en.gowikipedia.org/wiki/Dodging_and_burning
 [2]: https://en.wikipedia.org/wiki/Rotary_dial
 [3]: https://en.wikipedia.org/wiki/Punched_tape
-[4]: {{ site.baseurl }}/
