@@ -4,8 +4,6 @@ title: Rewind
 permalink: /rewind
 ---
 
-## Rewind
-
 Last updated: 2018-02-23.
 
 In this page, I maintain a list of (mostly technology related) terms like “rewind”, which are still used every day, even though they have lost their original meaning.
