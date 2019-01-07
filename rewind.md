@@ -40,4 +40,4 @@ In this page, I maintain a list of (mostly technology related) terms like “rew
 [1]: https://en.gowikipedia.org/wiki/Dodging_and_burning
 [2]: https://en.wikipedia.org/wiki/Rotary_dial
 [3]: https://en.wikipedia.org/wiki/Punched_tape
-[4]: /
+[4]: {{ site.baseurl }}/
