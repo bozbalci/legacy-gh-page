@@ -3,19 +3,31 @@ layout: default
 ---
 
 <p>
-    Hi, you've reached the personal home page of Berk Özbalcı. I'm a final year CS student in Middle East
-    Technical University and a part-time software engineer at <a href="https://www.udemy.com">Udemy.</a>
+    Hi, you've reached the personal home page of Berk Özbalcı. I live in Ankara, Turkey. I'm a final year CS student in Middle East Technical University and a part-time software engineer at <a href="https://www.udemy.com">Udemy.</a> At Udemy, I'm part of the Payments Team, helping over 30 million students and over 42,000 instructors have a smooth payments experience on our platform.
 </p>
-<p>This site is named after the King Crimson song.</p>
 
-<h2>Blog</h2>
+<p>
+    I am a singer in <a href="https://www.youtube.com/channel/UCxImhz_vuEdh2NRYk46JmGA">Jazzberry Tunes</a>, an a cappella choir founded in 2014 by METU students. I have participated in countless concerts in the last 4 years.
+</p>
+
+<p>
+    I am mainly interested in computers, mathematics and music. My favorite computer science subjects are theory of compilers and programming language design. I like to {listen to, compose, analyze} music. One of my childhood dreams was to build a programmable music instrument.
+</p>
+
+<p>
+    I like reading about architecture, industrial design, data visualization, UI/UX design and typography. The design of this website is not an indicator of my design preferences; it's an expression of false nostalgia (websites looking like this were not popular when I was first introduced to the Internet).
+</p>
+
+<p>This site is named after the King Crimson song. The site is, and always be, under construkction.</p>
+
+<h2 style="color: white;">Blog</h2>
 <ul>
     {% for post in site.posts %}
         <li>{{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
 
-<h2>My Stuff</h2>
+<h2 style="color: crimson;">My Stuff</h2>
 <ul>
     <li><a href="http://helios.whatbox.ca:59931/music/">Music compositions</a> (outdated)</li>
     <li><a href="https://www.instagram.com/berk.ozbalci/">Photography, digital art, 3D</a> on Instagram</li>
