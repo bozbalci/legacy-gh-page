@@ -4,7 +4,7 @@ body {
     max-width: 900px;
     padding: 24px;
     color: white;
-    font-size: calc(12px + 1vw);
+    font-size: calc(14px + 1vw);
 }
 
 a:link {
