@@ -4,7 +4,7 @@ body {
     max-width: 900px;
     padding: 24px;
     color: white;
-    font-size: calc(14px + 1vw);
+    font-family: sans-serif;
 }
 
 a:link {
@@ -26,4 +26,8 @@ a:active {
 img {
     max-width: 100%;
     height: auto;
+}
+
+h2 {
+    color: gold;
 }

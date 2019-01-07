@@ -8,14 +8,14 @@ layout: default
 </p>
 <p>This site is named after the King Crimson song.</p>
 
-<h2><font color="white">Blog</font></h2>
+<h2>Blog</h2>
 <ul>
     {% for post in site.posts %}
         <li>{{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
 
-<h2><font color="crimson">My stuff:</font></h2>
+<h2>My Stuff</h2>
 <ul>
     <li><a href="http://helios.whatbox.ca:59931/music/">Music compositions</a> (outdated)</li>
     <li>Instagram: <a href="https://www.instagram.com/berk.ozbalci/">Photography, digital art, 3D</a></li>
@@ -23,7 +23,7 @@ layout: default
     <li><a href="https://bozbalci.github.io/oiseau/">L'oiseau,</a> a <a href="https://www.last.fm/">Last.fm</a> scrobbler for <a href="https://www.musicpd.org/">MPD</a> (no longer maintained)</li>
 </ul>
 
-<h2><font color="gold">Contact:</font></h2>
+<h2>Contact</h2>
 <ul>
     <li><a href="mailto:{{ site.email }}">Mail</a></li>
     <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
