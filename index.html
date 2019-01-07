@@ -1,23 +1,41 @@
----
-layout: default
----
+<!DOCTYPE html>
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<html style="margin: 0 auto; max-width: 900px;">
+    <head>
+        <title>bozbalci</title>
+        <meta charset="utf-8">
+    </head>
+    <body background="images/darkness.png" text="white" link="mediumslateblue" vlink="silver">
+        <center>
+            <img src="images/logo.png" alt="The Sheltering Sky">
+        </center>
+        <hr>
+        <p>
+            Hi, you've reached the personal home page of Berk Özbalcı. I'm a final year CS student in Middle East
+            Technical University and a part-time software engineer at <a href="https://www.udemy.com">Udemy.</a>
+        </p>
+        <p>This site is named after the King Crimson Song.</p>
+        <h2><font color="crimson">My stuff:</font></h2>
+        <ul>
+            <li><a href="http://helios.whatbox.ca:59931/music/">Music compositions</a> (outdated)</li>
+            <li>Instagram: <a href="https://www.instagram.com/berk.ozbalci/">Photography, digital art, 3D</a></li>
+            <li><a href="rewind.html">Rewind,</a> a glossary of terms that have lost their core relevance</li>
+            <li><a href="https://bozbalci.github.io/oiseau/">L'oiseau,</a> a <a href="https://www.last.fm/">Last.fm</a> scrobbler for <a href="https://www.musicpd.org/">MPD</a> (no longer maintained)</li>
+        </ul>
+        <h2><font color="gold">Contact:</font></h2>
+        <ul>
+            <li><a href="mailto:berkozbalci@gmail.com">Mail</a></li>
+            <li><a href="https://github.com/bozbalci/">GitHub</a></li>
+            <li><a href="https://twitter.com/bozbalci/">Twitter</a></li>
+        </ul>
+        <hr>
+        <center>
+            <small>Copyright © 2014-2019 Berk Özbalcı</small>
+            <br>
+            <br>
+            <a href="http://www.darryl.com/vi.html">
+                <img src="images/vipower.gif" alt="vi powered!" width="123" height="36" />
+            </a>
+        </center>
+    </body>
+</html>
