@@ -55,3 +55,12 @@ h2 {
 .centered {
     text-align: center;
 }
+
+.third {
+    max-width: 33%;
+}
+
+.caption {
+    text-align: center;
+    font-size: 9pt;
+}

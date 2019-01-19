@@ -12,7 +12,8 @@ Our first home computer was bought in the early 2000s, and it ran Windows 98. It
 
 ![Computer Encyclopedia 2001][encyclopedia-img]
 
+{: .caption } "Computer Encyclopedia 2001".
 
 [^1]: I doubt this story, but I like to think that it's true because it allows me to say that I've been typing before I could write. :p
 
-[encyclopedia-img]: /images/bilgisayar-ansiklopedisi.png
+[encyclopedia-img]: /images/bilgisayar-ansiklopedisi.png {: .third }
