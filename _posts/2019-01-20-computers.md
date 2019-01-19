@@ -81,7 +81,7 @@ When I first got into the roleplaying scene, I had very limited English vocabula
 To be written.
 
 [^1]: I doubt this story, but I like to think that it's true because it allows me to say that I've been typing before I could write. :p
-[^2] I finally figured out how to play Minesweeper about 10 years later in high school.
+[^2]: I finally figured out how to play Minesweeper about 10 years later in high school.
 
 [encyclopedia-img]: /images/bilgisayar-ansiklopedisi.png
 {: .third}
