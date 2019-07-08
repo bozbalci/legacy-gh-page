@@ -1,0 +1,12 @@
+title: the sheltering sky
+description: >
+    Berk Özbalcı's Personal Home Page
+email: berkozbalci@gmail.com
+
+baseurl: "/legacy-gh-page/"
+permalink: /:title
+
+twitter_username: bozbalci
+github_username: bozbalci
+
+markdown: kramdown
